@@ -1824,7 +1824,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PalaIAController
   pelota: {fileID: 1389291896}
-  velocidadSeguimiento: 0.05
+  velocidadSeguimiento: 0.1
+  limiteSuperior: 4
+  limiteInferior: -4
 --- !u!1 &1943794570
 GameObject:
   m_ObjectHideFlags: 0
